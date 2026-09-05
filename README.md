@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="AIPixFlow Prompt Gallery" width="760">
+  <img src="assets/banner.jpg" alt="AIPixFlow ChatGPT Image 2 Prompts" width="760">
 </p>
 
-<h1 align="center">AIPixFlow Prompt Gallery</h1>
+<h1 align="center">AIPixFlow ChatGPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>288 curated AI image prompts for e-commerce and social media creatives</strong><br>
+  <strong>288 curated ChatGPT Image 2 prompts for e-commerce and social media creatives</strong><br>
   <sub>Works with GPT Image, Nano Banana style workflows, and modern image generation tools</sub>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## What Is This?
 
-AIPixFlow Prompt Gallery is a curated dataset of AI image prompts and demo
+AIPixFlow ChatGPT Image 2 Prompts is a curated dataset of AI image prompts and demo
 images for commercial creative generation. The current release focuses on
 e-commerce product ads, product main images, apparel model shots, and social
 media cover/post templates.
