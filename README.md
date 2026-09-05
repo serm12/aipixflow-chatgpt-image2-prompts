@@ -5,13 +5,13 @@
 <h1 align="center">AIPixFlow ChatGPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>288 curated ChatGPT Image 2 prompts for e-commerce and social media creatives</strong><br>
+  <strong>296 curated ChatGPT Image 2 prompts for e-commerce and social media creatives</strong><br>
   <sub>Works with GPT Image, Nano Banana style workflows, and modern image generation tools</sub>
 </p>
 
 <p align="center">
   <a href="https://aipixflow.shopupup.com/"><img src="https://img.shields.io/badge/Website-aipixflow.shopupup.com-blue?style=flat-square" alt="Website"></a>
-  <a href="prompts/prompts.json"><img src="https://img.shields.io/badge/Prompts-288-green?style=flat-square" alt="288 prompts"></a>
+  <a href="prompts/prompts.json"><img src="https://img.shields.io/badge/Prompts-296-green?style=flat-square" alt="296 prompts"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square" alt="CC BY 4.0"></a>
 </p>
 
@@ -37,7 +37,7 @@ can be imported into apps, CMS systems, marketplaces, and prompt galleries.
 
 | Total | GPT Image | E-commerce | Social Media |
 | --- | ---: | ---: | ---: |
-| 288 | 288 | 184 | 104 |
+| 296 | 296 | 192 | 104 |
 
 ## Data Formats
 
@@ -110,3 +110,4 @@ Prompt records include:
 This dataset is released under the Creative Commons Attribution 4.0
 International license. Please attribute AIPixFlow and link to
 https://aipixflow.shopupup.com/ when using or redistributing the data.
+

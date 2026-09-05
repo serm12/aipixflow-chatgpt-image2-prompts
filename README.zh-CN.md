@@ -5,7 +5,7 @@
 <h1 align="center">AIPixFlow ChatGPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>288 条电商与社交媒体 AI 图片提示词数据</strong><br>
+  <strong>296 条电商与社交媒体 AI 图片提示词数据</strong><br>
   <sub>适用于 GPT Image、Nano Banana 风格工作流和常见图片生成工具</sub>
 </p>
 
@@ -29,7 +29,7 @@
 
 | 总数 | GPT Image | E-commerce | Social Media |
 | --- | ---: | ---: | ---: |
-| 288 | 288 | 184 | 104 |
+| 296 | 296 | 192 | 104 |
 
 ## 文件结构
 
@@ -88,3 +88,4 @@
 本数据集使用 Creative Commons Attribution 4.0 International 协议开源。
 使用或二次分发时请署名 AIPixFlow，并链接：
 https://aipixflow.shopupup.com/
+
